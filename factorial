@@ -1,0 +1,23 @@
+# Factorial Program
+
+## Description
+This Python program calculates the factorial of a given number using a loop.
+
+## How It Works
+- The user enters a number.
+- The program multiplies all numbers from 1 to the given number.
+- The result is displayed as the factorial.
+
+## Example
+
+Input:
+5
+
+Output:
+Factorial = 120
+
+## Technology Used
+- Python 3
+
+## Author
+Yogasrii
